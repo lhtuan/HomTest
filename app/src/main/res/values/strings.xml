@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Test</string>
+
+    <string name="keyword_title">Từ khóa hot</string>
+
+    <string name="error">Opps! Somethings went wrong.</string>
+</resources>
